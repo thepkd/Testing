@@ -1,2 +1,2 @@
 
-Lexer to recognise the pattern 2?0+12* in C++.
+dfa.cc : Lexer to recognise the pattern 2?0+12* in C++.
